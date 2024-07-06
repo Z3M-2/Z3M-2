@@ -1,0 +1,57 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "scam mm2 سويدة", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "Sobia | 🏠",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "البداية"
+})
+
+Tab:AddButton({
+	Name = "ميراج",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet"https://raw.githubusercontent.co/PNguyen0199/Script/main/Fai-Fao-Ver2.lua")()
+end    
+})
+Tab:AddButton({
+	Name = "فورت",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirimii/HirimiHub/main/LoaderScript.lua"))()
+end    
+})
+Tab:AddButton({
+	Name = " يجيب لك قيتار بروك و سيف توشيت ",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+})
+Tab:AddButton({
+	Name = "الميراج القوي",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+})
+Tab:AddButton({
+	Name = "تلفيل",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+})
+Tab:AddButton({
+	Name = "يعطيك سيوف اودن",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/Protected-25.lua"))()
+})
+Tab:AddButton({
+	Name = "بلوكس يجب لك صناديق",
+	Callback = function()
+      		print("button pressed")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+})
